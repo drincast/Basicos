@@ -1,0 +1,27 @@
+.classTablaSimple{
+	padding: 0rem;
+		margin: 0rem;
+		width: 100%;
+}
+	.classTablaSimple table{
+			width: 100%;
+			border-collapse: collapse;
+		  	border-spacing: 0rem;
+		}
+			.classTablaSimple table tr{
+				/*border: solid 0.1rem;*/
+			}
+				.classTablaSimple table tr th, td{
+					border: solid 0.1rem;
+					border-color: #bbb;
+				}
+			.classTablaSimple table .TBLCabecera{
+				background-color: #2dc157;
+				color: #fff;
+			}
+			.classTablaSimple table .TBLFilaDatosPar{
+				background-color: #eae87c;
+			}
+			.classTablaSimple table .TBLFilaDatosImpar{
+				background-color: #b2d7b4;
+			}

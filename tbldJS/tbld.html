@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tabla de datos din&aacute;mica simple con Html5, css y javascript</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type="text/javascript" src="jsTbld.js"></script>
+	<link rel="stylesheet" type="text/css" href="cssTbld.css">
+</head>
+<body>
+	<h1>Tabla de datos din&aacute;mica simple con Html5, css y javascript</h1>
+	
+	<div id="divTabla1"></div>
+	
+	<script type="text/javascript">
+	//<![CDATA[
+		function cargaInicial(){
+			crearTablaSimple('divTabla1', 'classTablaSimple', obtenerObjJson());
+		}
+
+		window.onload = cargaInicial();
+	//]]>
+	</script>
+</body>
+</html>
