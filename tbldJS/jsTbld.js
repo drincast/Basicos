@@ -73,3 +73,7 @@ function crearTablaSimple(divTabla, classDivTabla, objJson){
 	}
 	finally{}
 }
+
+/*
+	Esta obra está sujeta a la licencia Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/4.0/.
+*/
