@@ -41,3 +41,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.dll
+DemosASPNet/Demos/bin/Newtonsoft.Json.xml
+DemosASPNet/Demos/bin/System.Net.Http.Formatting.xml
+DemosASPNet/Demos/bin/System.Web.Helpers.xml
+DemosASPNet/Demos/bin/System.Web.Http.WebHost.xml
+DemosASPNet/Demos/bin/System.Web.Http.xml
+*.pdb
+*.pdb
+DemosASPNet/Demos/obj/Debug/Demos.dll
+DemosASPNet/Demos/obj/Debug/Demos.csprojResolveAssemblyReference.cache
+DemosASPNet/Demos/obj/Debug/Demos.csproj.FileListAbsolute.txt
+*.pdb
+*.pdb
+DemosASPNet/Demos/bin/System.Web.Webpages.Razor.xml
+DemosASPNet/Demos/bin/System.Web.Webpages.Deployment.xml
+DemosASPNet/Demos/bin/System.Web.Webpages.xml
+DemosASPNet/Demos/bin/System.Web.Razor.xml
+DemosASPNet/Demos/bin/System.Web.Mvc.xml
